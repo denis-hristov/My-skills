@@ -41,22 +41,17 @@
   opacity: 0;
 }
 
-.skill-per.html {
+.skill-per.javascript {
   width: 80%;
   animation-delay: 0.2s;
 }
 
-.skill-per.css {
-  width: 30%;
-  animation-delay: 0.2s;
-}
-
-.skill-per.javascript {
+.skill-per.cpp {
   width: 70%;
   animation-delay: 0.3s;
 }
 
-.skill-per.nodejs {
+.skill-per.python {
   width: 70%;
   animation-delay: 0.3s;
 }
